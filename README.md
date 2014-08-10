@@ -21,7 +21,7 @@ The damn fast typewriter.
 
 ####Usage
 - 1.) Create a cube.
-- 2.) Select the cube's right face (see screenshot).
+- 2.) Select the cube's right face.
 - 3.) Run the command »/typegen "HELLO WORLD!"«.
 
 #####Included _»public domain«_ fonts:
